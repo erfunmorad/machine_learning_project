@@ -6,6 +6,8 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-KNN%20%7C%20SVM-orange)
 ![OpenCV](https://img.shields.io/badge/OpenCV-image%20processing-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
+  
+Dataset : https://www.kaggle.com/datasets/happyyang/ucmerced-landuse   
 
 Classical machine learning (KNN and SVM) for classifying aerial images into 5 land-use categories, using raw pixel features and hyperparameter tuning with `GridSearchCV`.
 
